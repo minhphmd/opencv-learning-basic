@@ -1,1 +1,3 @@
-"# opencv-learning-basic" 
+# Readme
+
+Progress in learning OpenCV basic
